@@ -31,3 +31,24 @@ body{
     top: 4px;
     left: 128px;
 }
+.footer {
+	position: absolute;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	padding: 1rem;
+	background-color: #000;
+	text-align: center;
+  }
+  .footer p {
+  text-decoration: none;
+  color: #fff;
+  }
+  .footer a {
+	text-decoration: none;
+	color: green;
+  }
+  .footer a:hover {
+	text-decoration: underline;
+	color: red;
+  }
